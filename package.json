@@ -1,0 +1,19 @@
+{
+  "name": "@wcd/gdnzz.react-mkopadiu",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Ea5wmOaTHoVngwCHUc72 --open"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "react-to-webcomponent": "^1"
+  },
+  "devDependencies": {
+    "lit-html": "^2"
+  }
+}
